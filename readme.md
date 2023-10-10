@@ -7,4 +7,12 @@ PIN/Password is 0000
 
  ## Instructions 
 
- 
+You can install this CLI tool globally using npm:
+
+npm i @iamabbas/cli-quiz-system
+
+After installing this package hit this command to run an application
+
+npx @iamabbas/cli-quiz-system
+
+Developed by Abbas Ali
